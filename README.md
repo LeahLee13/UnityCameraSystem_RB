@@ -1,4 +1,4 @@
-# UnityCameraSystem_CC
+# UnityCameraSystem_RB
 
 #### 介绍
 基于Cinemachine的第一/三人称过肩/自由/斜45度/俯视角摄像机系统
